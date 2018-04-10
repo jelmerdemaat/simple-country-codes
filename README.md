@@ -1,6 +1,8 @@
 # Simple country codes
 [GitHub](https://github.com/jelmerdemaat/simple-country-codes) | [NPM](https://www.npmjs.com/package/simple-country-codes) | [@jelmerdemaat](https://twitter.com/jelmerdemaat)
 
+Retrieve country names by giving country codes.
+
 All this is:
 - A JSON object of all country codes and their country names
 - A function to safely retrieve items from that object

@@ -1,0 +1,25 @@
+{
+  "name": "simple-country-codes",
+  "description": "Retrieve country names by giving country codes",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jelmerdemaat/simple-country-codes.git"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "code",
+    "codes"
+  ],
+  "author": "Jelmer de Maat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jelmerdemaat/simple-country-codes/issues"
+  },
+  "homepage": "https://github.com/jelmerdemaat/simple-country-codes#readme"
+}
