@@ -24,7 +24,7 @@ npm install --save simple-country-codes
 [Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and use in your own JavaScript:
 
 ```js
-import { getCountry } from '../utils/countrycodes';
+import { getCountry } from 'simple-country-codes';
 
 getCountry('gb'); // Returns "United Kingdom"
 getCountry('nl'); // Returns "Netherlands"
